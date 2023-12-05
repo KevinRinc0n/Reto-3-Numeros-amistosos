@@ -1,0 +1,14 @@
+C:\Users\kevin\Desktop\Reto-3-Numeros-amistosos-1\bin\Debug\net7.0\Reto-3-Numeros-amistosos-1.exe
+C:\Users\kevin\Desktop\Reto-3-Numeros-amistosos-1\bin\Debug\net7.0\Reto-3-Numeros-amistosos-1.deps.json
+C:\Users\kevin\Desktop\Reto-3-Numeros-amistosos-1\bin\Debug\net7.0\Reto-3-Numeros-amistosos-1.runtimeconfig.json
+C:\Users\kevin\Desktop\Reto-3-Numeros-amistosos-1\bin\Debug\net7.0\Reto-3-Numeros-amistosos-1.dll
+C:\Users\kevin\Desktop\Reto-3-Numeros-amistosos-1\bin\Debug\net7.0\Reto-3-Numeros-amistosos-1.pdb
+C:\Users\kevin\Desktop\Reto-3-Numeros-amistosos-1\obj\Debug\net7.0\Reto-3-Numeros-amistosos-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\Reto-3-Numeros-amistosos-1\obj\Debug\net7.0\Reto-3-Numeros-amistosos-1.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\Reto-3-Numeros-amistosos-1\obj\Debug\net7.0\Reto-3-Numeros-amistosos-1.AssemblyInfo.cs
+C:\Users\kevin\Desktop\Reto-3-Numeros-amistosos-1\obj\Debug\net7.0\Reto-3-Numeros-amistosos-1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Reto-3-Numeros-amistosos-1\obj\Debug\net7.0\Reto-3-Numeros-amistosos-1.dll
+C:\Users\kevin\Desktop\Reto-3-Numeros-amistosos-1\obj\Debug\net7.0\refint\Reto-3-Numeros-amistosos-1.dll
+C:\Users\kevin\Desktop\Reto-3-Numeros-amistosos-1\obj\Debug\net7.0\Reto-3-Numeros-amistosos-1.pdb
+C:\Users\kevin\Desktop\Reto-3-Numeros-amistosos-1\obj\Debug\net7.0\Reto-3-Numeros-amistosos-1.genruntimeconfig.cache
+C:\Users\kevin\Desktop\Reto-3-Numeros-amistosos-1\obj\Debug\net7.0\ref\Reto-3-Numeros-amistosos-1.dll
